@@ -15,6 +15,7 @@ To be able to run this program on your computer.
 Open the terminal on your computer.
 Clone the repo from github using:
 
+git@github.com:MakenaG/Flatiron-Bank.git
     
 
 Navigate into into the repo folder:
