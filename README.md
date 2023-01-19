@@ -6,7 +6,8 @@ This is a prorgam that lets a user see various fetched transactions from a json 
 ### Alternative one 
 Click on the Github pages link provided and you will be directed to the application.
 
-    
+
+https://bespoke-cupcake-6e74f9.netlify.app/    
 
 ### Alternative two
 ### installation
