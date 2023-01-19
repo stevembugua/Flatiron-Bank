@@ -16,7 +16,10 @@ Open the terminal on your computer.
 Clone the repo from github using:
 
 git@github.com:MakenaG/Flatiron-Bank.git
+<<<<<<< HEAD
 
+=======
+>>>>>>> f3226d79757706630a4e2cc7f1a0e98565744552
     
 
 Navigate into into the repo folder:
